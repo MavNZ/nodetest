@@ -8,3 +8,5 @@ function evenOrOdd(num) {
 
 evenOrOdd(86)
 // console.log(evenOrOdd(86))
+
+//test
